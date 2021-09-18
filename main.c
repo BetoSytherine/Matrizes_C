@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Estudo sobre Matrizes em linguagem C
+
 int main()
 {
-    int matrizes[2][2],i,j; // como n„o foram definidos os valores da matriz foi preciso criar novas variaveis ( i e j)
+    int matrizes[2][2],i,j; // como n√£o foram definidos os valores da matriz foi preciso criar novas variaveis ( i e j)
 
 
 
@@ -14,7 +16,7 @@ int main()
         for(j = 0; j <2; j++)
     {
         printf("Insira os valores [%d][%d]:", i, j);
-        scanf("%d", &matrizes[i][j]); //inserindo o valor, ele ser· registrado na variavÈl "matrizes", que esta registrando os numeros em "i" e "j"
+        scanf("%d", &matrizes[i][j]); //inserindo o valor, ele ser√° registrado na variav√©l "matrizes", que esta registrando os numeros em "i" e "j"
     }
 
 
