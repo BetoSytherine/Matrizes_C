@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Estudo sobre Matrizes em linguagem C
+//Estudo sobre Matrizes em linguagem C.
 
 int main()
 {
-    int matrizes[2][2],i,j; // como não foram definidos os valores da matriz foi preciso criar novas variaveis ( i e j)
+    int matrizes[2][2],i,j; // como não foram definidos os valores da matriz foi preciso criar novas variaveis ( i e j).
 
 
 
